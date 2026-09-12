@@ -18,7 +18,7 @@ project:
   # Don't forget to also update `PROJECT_SOURCES` in test/Makefile.
   source_files:
     - "project.v"
-    - "hsync_generator.v"
+    - "hvsync_generator.v"
     - "palette.v"
     - "bitmap_rom.v"
 
